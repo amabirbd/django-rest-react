@@ -1,5 +1,5 @@
 # django-rest-react
-A simple react , django and django rest framework app
+A simple react , django and django rest framework app. Uses DRF to initiate an api , fetches and shows the data fetched from api in the front end using ReactJS. 
 
 Requirements:<br>
  
